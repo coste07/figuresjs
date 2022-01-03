@@ -8,7 +8,7 @@ function perimetroCuadrado(lado) {
 //console.log("El perimetro del cuadrado: " + perimetroCuadrado(ladoCuadrado) + "cm"); 
 
 function areaCuadrado(lado){
-    return lado*lado;
+    return lado * lado;
 }  
 //console.log("El area del cuadrado: " + areaCuadrado + "cm^2" );
 console.groupEnd();
